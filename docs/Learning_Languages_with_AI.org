@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: bbee2c13-fe4f-401f-a208-9f90326edc7c
+:ROAM_ORIGIN: 2a15ad44-faf8-4aa4-969b-aada2d259b57
+:END:
+#+TITLE: Learning Languages with AI
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:LANGUAGE:AI:
+#+HTML:<details>
+
+* Learning Languages with AI :DOC:META:LANGUAGE:AI:
+#+HTML:</details>
+/What do you need to learn new languages with AI/

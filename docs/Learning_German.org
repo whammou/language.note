@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID: 2a15ad44-faf8-4aa4-969b-aada2d259b57
+:END:
+#+TITLE: Learning German
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:LANGUAGE:GERMAN:
+#+HTML:<details>
+
+* Leanrning German :DOC:META:LANGUAGE:GERMAN:
+#+HTML:</details>
+- /Notebook on planning and learning German/
+** Introduction
+/German and English belong to the same family of languages/
+
+German is not difficult to pronounce and spel
+- German is a phonetic language. This means that words are also generally pronounce as they spelled and spelled as they pronounced
+- There are no silent letters except ~e~ in the combination ~ie~, and ~h~, which is silent when used after a vowel to indicate the it has a long sound
+- Each German vowel has a long and a short sound. Thus: German ~a~ is either long or short
+- Most German words are stressed (accented) on the *first* syllable
+  
+file:language/assets/german_vowel_sound.png
+Youtube:* [[https://youtube.com/watch?v=axQGCdGCjAk][Alphabet pronunciation]]
+
+Preview of some interesting features of german
+
+a.* German grammatical gender
+In German ~Gender~ does not depend entirely on /sex/. The noun for a male is generally (not always) *masculine* in ~gender~, the noun for a female is generally (not always) *feminine* in ~gender~ and some are *neutral* (/neuter/) 
+b.* The preposition "a(an)", "the" in German
+The German word for the definite article "the" is very intriguing. The English word *The* never changes. The German word *The* has six forms, depending on its use in the sentences. Thus: 
+- *der* is used with /masculine/ nouns
+- *die* is used with /feminine/ nouns
+- *das* is used with /neutral/ nouns
+c.* German nouns do not form their plurals by adding *-s* or *-es* as is the case with most nouns in English. In general, the German nouns form their plurals in one of four ways which you will lean later
+d.* German verbs have endings which correspond to the subject pronoune
+
+file:language/assets/verb_form.png
+** Grammar
+- *Goal(s):* Learn German grammar
+** PENDING Speaking practice environment
+- *Goal:* create speaking environment via either irl or discord(schedule events if necessary)
+** Resources
+- *Book:*  [[https://libgen.li/edition.php?id=138543351][Auf geht's! beginning German language and culture 4th]] [[https://www.fluentu.com/blog/german/best-books-to-learn-german/][book-lists]]
+- *Reddit:*  [[https://www.reddit.com/r/German/comments/xtvvqd/best_german_self_study_books/][self-study]] [[https://www.reddit.com/r/German/comments/4b1ft7/best_resource_for_learning_german_free/][self-study resource]]
