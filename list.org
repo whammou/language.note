@@ -1,4 +1,0 @@
-#+TITLE:  Languauge List
-#+DESCRIPTION: Lists of useful itemss
-
-* Lists :LIST:LANGUAGE:
