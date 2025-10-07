@@ -39,7 +39,7 @@ d.* German verbs have endings which correspond to the subject pronoune
 file:language/assets/verb_form.png
 ** Grammar
 - *Goal(s):* Learn German grammar
-** PENDING Speaking practice environment
+** PEND Speaking practice environment
 - *Goal:* create speaking environment via either irl or discord(schedule events if necessary)
 ** Resources
 - *Book:*  [[https://libgen.li/edition.php?id=138543351][Auf geht's! beginning German language and culture 4th]] [[https://www.fluentu.com/blog/german/best-books-to-learn-german/][book-lists]]
