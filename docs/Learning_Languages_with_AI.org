@@ -7,9 +7,9 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :DOC:PROJECT:@Language:AI:
+#+FILETAGS: :%Doc:@Project:@Language:AI:
 #+HTML:<details>
 
-* Learning Languages with AI :DOC:#Meta:@Language:AI:
+* Learning Languages with AI :%Doc:#Meta:@Language:AI:
 #+HTML:</details>
 /What do you need to learn new languages with AI/
