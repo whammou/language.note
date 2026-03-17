@@ -1,6 +1,6 @@
 #+TITLE: Language – Overview
 #+DESCRIPTION: Language learning resources.
-#+FILETAGS: :LANGUAGE:
+#+FILETAGS: :@Language:
 
 * Overview
   Language learning materials: vocabulary, grammar, practice notes, and resources.
@@ -19,8 +19,8 @@
 * Tag & State Conventions (inherited from the main repo)
   - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
   - *Tags* – Use the hierarchical tag format:
-    :LANGUAGE:<CATEGORY>:<TYPE>:<DETAIL>:
-    Example: =:LANGUAGE:VOCAB:SPANISH:=
+    :@Language:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:@Language:VOCAB:SPANISH:=
 
 * Typical Files
   - =docs/<something>.org= – grammar notes, practice exercises, cultural insights.
