@@ -1,7 +1,7 @@
 #+TITLE: Language Logs
 #+DESCRIPTION: Logs of finished items
 
-* Logs :LOG:@Language:
+* Logs :LOG:LANGUAGE:
 ** Integrate tts :LINUX:
 - *Goal(s):*  Utilize tts and stt system in linux for better language learning experience
 
