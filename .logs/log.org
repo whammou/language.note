@@ -1,5 +1,6 @@
-#+TITLE: Language Logs
+#+TITLE: Language Log
 #+DESCRIPTION: Logs of finished items
+#+FILETAGS: :LANGUAGE:LOG:
 
 * Logs :LOG:LANGUAGE:
 ** Integrate tts :LINUX:
