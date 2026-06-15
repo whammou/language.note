@@ -2,7 +2,6 @@
 :ID: 2a15ad44-faf8-4aa4-969b-aada2d259b57
 :END:
 #+TITLE: Learning German
-
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :topLanguage:typDoc:subProject:GERMAN:
