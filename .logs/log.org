@@ -1,8 +1,8 @@
 #+TITLE: Language Log
 #+DESCRIPTION: Logs of finished items
-#+FILETAGS: :LANGUAGE:LOG:
+#+FILETAGS: :topLanguage:LOG:
 
-* Logs :LOG:LANGUAGE:
+* Logs :LOG:topLanguage:
 ** Integrate tts :LINUX:
 - *Goal(s):*  Utilize tts and stt system in linux for better language learning experience
 
